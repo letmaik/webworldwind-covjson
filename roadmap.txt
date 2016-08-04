@@ -1,0 +1,21 @@
+
+TODO:
+
+1) need to link both UIs. So it creates one layer when with constraints for
+    time and depth rather then it subsetting time and then depth.
+
+Completed:
+
+- Extract and load values for different
+  time scales.
+
+- Refractored to separate out the different logic of the time UI and
+  legend into different classes.
+
+- Tablet friendly
+
+- prettify legend with boarder plus other css modifications.
+
+- Created a managing class for sorting though multiple UIs.
+
+- create UI for different verticle axis.
